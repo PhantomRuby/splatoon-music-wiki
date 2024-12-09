@@ -9,3 +9,7 @@
 /media/**/*.large.jpg
 /media/**/*.semihuge.jpg
 /media/**/*.huge.jpg
+
+/cache
+
+run local server.bat
