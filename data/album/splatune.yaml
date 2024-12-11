@@ -16,15 +16,13 @@ Directory: opening-splatoon
 Artists:
 - Squid Squad
 Duration: 0:13
-URLs:
-- https://en.wikipedia.org/wiki/Abracadabra
+#URLs:
+#- https://en.wikipedia.org/wiki/Abracadabra
 ---
 Track: Splattack! (Jam Session)
 Artists:
 - Squid Squad
 Duration: 2:33
-URLs:
-- https://www.youtube.com/watch?v=hxsOXOPni0o
 Referenced Tracks:
 - Splattack!
 ---
@@ -33,5 +31,49 @@ Directory: splattack-splatoon
 Artists:
 - Squid Squad
 Duration: 2:53
-URLs:
-- https://www.youtube.com/watch?v=hxsOXOPni0o
+---
+Track: Ink or Sink
+Artists:
+- Squid Squad
+Duration: 2:36
+---
+Track: Seaskape
+Artists:
+- Squid Squad
+Duration: 2:57
+---
+Track: Kraken Up
+Artists:
+- Squid Squad
+Duration: 2:22
+---
+Track: Metalopod
+Artists:
+- Squid Squad
+Duration: 2:22
+---
+Track: Now or Never!
+Directory: now-or-never-splatoon
+Artists:
+- Squid Squad
+Duration: 1:04
+---
+Track: You Got Them!
+#Contributors:
+#- 
+Duration: 0:04
+---
+Track: Battle Win Result
+#Contributors:
+#- 
+Duration: 1:08
+---
+Track: They Got You!
+#Contributors:
+#- 
+Duration: 0:06
+---
+Track: Battle Lose Result
+#Contributors:
+#- 
+Duration: 1:11
