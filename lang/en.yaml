@@ -11,3 +11,7 @@ trackList:
             by: "/ {ARTISTS}"
             featuring: "feat. {ARTISTS}"
             by.featuring: "/ {ARTISTS} feat. {FEATURING}"
+
+misc:
+    artistLink:
+        withContribution: "{CONTRIB} {ARTIST}"
