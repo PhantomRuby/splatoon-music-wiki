@@ -61,6 +61,7 @@ Artists:
 Duration: 1:04
 ---
 Track: You Got Them!
+Directory: you-got-them-splatoon
 #Contributors:
 #- 
 Duration: 0:04
@@ -71,6 +72,7 @@ Track: Battle Win Result
 Duration: 1:08
 ---
 Track: They Got You!
+Directory: they-got-you-splatoon
 #Contributors:
 #- 
 Duration: 0:06
@@ -104,6 +106,8 @@ Track: Player Make
 #Contributors:
 #- 
 Duration: 1:08
+Referenced Tracks:
+- Inkopolis Tutorial
 ---
 Track: Visiting Inkopolis
 #Contributors:
@@ -114,6 +118,8 @@ Track: Inkopolis Tutorial
 #Contributors:
 #- 
 Duration: 1:07
+Referenced Tracks:
+- Splattack! (Jam Session)
 ---
 Track: Plaza
 #Contributors:
