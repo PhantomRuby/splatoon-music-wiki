@@ -64,6 +64,8 @@ Artists:
 Contributors:
 - Toru Minegishi (Music by)
 Duration: 1:05
+Referenced Tracks:
+- track:now-or-never-splatoon
 ---
 Track: You Got Them!
 Directory: you-got-them-splatoon2
@@ -266,6 +268,8 @@ Artists:
 Contributors:
 - Toru Minegishi (Music by)
 Duration: 1:08
+Referenced Tracks:
+- Color Pulse
 ---
 Section: Disc 2
 Color: '#56f840'
@@ -276,3 +280,344 @@ Artists:
 Contributors:
 - Toru Minegishi (Music by)
 Duration: 3:28
+---
+Track: Commence the Fest
+Directory: commence-the-fest-splatoon2
+Artists:
+- Off the Hook
+Contributors:
+- Toru Minegishi (Music by)
+Duration: 0:21
+---
+Track: Ebb & Flow
+Artists:
+- Off the Hook
+Contributors:
+- Toru Minegishi (Music by)
+Duration: 3:12
+---
+Track: Acid Hues
+Artists:
+- Off the Hook
+Contributors:
+- Toru Minegishi (Music by)
+Duration: 3:37
+---
+Track: Muck Warfare
+Artists:
+- Off the Hook
+Contributors:
+- Toru Minegishi (Music by)
+Duration: 3:37
+---
+Track: Now or Never!
+Directory: now-or-never-splatfest-splatoon2
+Artists:
+- Off the Hook
+Contributors:
+- Toru Minegishi (Music by)
+Duration: 1:06
+Referenced Tracks:
+- track:now-or-never-splatoon
+---
+Track: You Got Them! (Splatfest)
+Directory: you-got-them-splatfest-splatoon2
+Artists:
+- Off the Hook
+Contributors:
+- Toru Minegishi (Music by)
+Duration: 0:05
+Referenced Tracks:
+- track:you-got-them-splatoon
+---
+Track: Fest Zest
+Artists:
+- Off the Hook
+Contributors:
+- Toru Minegishi (Music by)
+Duration: 2:04
+Referenced Tracks:
+- Battle Win Result
+---
+Track: They Got You! (Splatfest)
+Directory: they-got-you-splatfest-splatoon2
+Artists:
+- Off the Hook
+Contributors:
+- Toru Minegishi (Music by)
+Duration: 0:07
+Referenced Tracks:
+- track:they-got-you-splatoon
+---
+Track: Party's Over
+Artists:
+- Off the Hook
+Contributors:
+- Toru Minegishi (Music by)
+Duration: 1:50
+Referenced Tracks:
+- Ink Another Day
+---
+Track: Splatfest Results Drop
+Directory: splatfest-results-drop-splatoon2
+Artists:
+- Off the Hook
+Contributors:
+- Toru Minegishi (Music by)
+Duration: 0:06
+Referenced Tracks:
+- track:splatfest-results-drop-splatoon
+---
+Track: Got It!
+Directory: got-it-splatoon2
+Originally Released As: track:got-it-splatoon
+Duration: 0:06
+---
+Track: Low Tide
+Contributors:
+- Toru Minegishi (Music by)
+Duration: 1:45
+Referenced Tracks:
+- Cap'n Cuttlefish's Theme
+#- track:bomb-rush-blush-splatoon
+---
+Track: Octo Canyon
+Artists:
+- Turquoise October
+Contributors:
+- Ryo Nagamatsu (Music by)
+Duration: 3:32
+---
+Track: Octo Eight-Step
+Artists:
+- Turquoise October
+Contributors:
+- Toru Minegishi (Music by)
+Duration: 3:07
+Referenced Tracks:
+- Eight-Legged Advance
+Sampled Tracks:
+- City of Color
+---
+Track: The Girl from Inkopolis
+Artists:
+- Turquoise October
+Contributors:
+- Toru Minegishi (Music by)
+Duration: 2:48
+Sampled Tracks:
+- Ink Me Up
+---
+Track: Buoyant Boogie
+Artists:
+- Turquoise October
+Contributors:
+- Toru Minegishi (Music by)
+Duration: 2:35
+Sampled Tracks:
+- track:now-or-never-splatfest-splatoon
+---
+Track: Shooting Starfish
+Artists:
+- Turquoise October
+Contributors:
+- Toru Minegishi (Music by)
+Duration: 2:48
+Sampled Tracks:
+- Maritime Memory
+---
+Track: Tentacular Circus
+Directory: tentacular-circus-splatoon2
+Originally Released As: track:tentacular-circus-splatoon
+Duration: 2:04
+---
+Track: Cephaloparade
+Directory: cephaloparade-splatoon2
+Originally Released As: track:cephaloparade-splatoon
+Duration: 3:08
+---
+Track: Octoling Rendezvous
+Directory: octoling-rendezvous-splatoon2
+Originally Released As: track:octoling-rendezvous-splatoon
+Duration: 1:56
+---
+Track: Boss Entrance
+Artists:
+- Turquoise October
+Contributors:
+- Ryo Nagamatsu (Music by)
+Duration: 0:21
+---
+Track: Octarmaments
+Artists:
+- Turquoise October
+Contributors:
+- Ryo Nagamatsu (Music by)
+Duration: 4:04
+---
+Track: 'Story Mode: Onward!'
+Artists:
+- Turquoise October
+Contributors:
+- Toru Minegishi (Music by)
+Duration: 0:07
+Referenced Tracks:
+- To Be Continued!
+---
+Track: R.I.P. (Story Mode)
+Artists:
+- Turquoise October
+Contributors:
+- Toru Minegishi (Music by)
+Duration: 0:09
+Referenced Tracks:
+- Miss!!
+---
+Track: Bomb Rush Blush
+Directory: bomb-rush-blush-splatoon2
+Artists:
+- DJ Octavio
+- Callie (featuring)
+Contributors:
+- Ryo Nagamatsu (Music by)
+Duration: 1:54
+#Referenced Tracks:
+#- track:bomb-rush-blush-splatoon
+#Sampled Tracks:
+#- track:bomb-rush-blush-splatoon
+---
+Track: Tidal Rush
+Artists:
+- DJ Octavio
+- Callie (featuring)
+- Marie (featuring) #stylized as Callie vs. Marie
+Contributors:
+- Ryo Nagamatsu (Music by)
+Duration: 3:54
+Referenced Tracks:
+#- Tide Goes Out
+#- Bomb Rush Blush
+- track:bomb-rush-blush-splatoon2
+---
+Track: Spicy Calamari Inkantation
+Artists:
+- Squid Sisters
+Contributors:
+- Ryo Nagamatsu (Music by)
+Duration: 4:17
+Referenced Tracks:
+#- Calamari Inkantation live
+- Calamari Inkantation
+- City of Color
+---
+Track: Fresh Start
+Artists:
+- Squid Sisters
+Contributors:
+- Shiho Fujii (Music by)
+Duration: 4:05
+Referenced Tracks:
+- Calamari Inkantation
+#- Bomb Rush Blush
+#- Tide Goes Out
+---
+Track: 'SE: Splat Dualies'
+Contributors:
+- Takahisa Yamamoto (Sound Effects by)
+Duration: 0:09
+---
+Track: 'SE: Goo Tuber'
+Contributors:
+- Takahisa Yamamoto (Sound Effects by)
+Duration: 0:07
+---
+Track: 'SE: Splat Brella'
+Contributors:
+- Takuro Yasuda (Sound Effects by)
+Duration: 0:17
+---
+Track: 'SE: Autobomb'
+Contributors:
+- Takahisa Yamamoto (Sound Effects by)
+Duration: 0:08
+---
+Track: 'SE: Tenta Missiles'
+Contributors:
+- Takahisa Yamamoto (Sound Effects by)
+Duration: 0:09
+---
+Track: 'SE: Ink Armor'
+Contributors:
+- Takahisa Yamamoto (Sound Effects by)
+Duration: 0:09
+---
+Track: 'SE: Sting Ray'
+Contributors:
+- Takahisa Yamamoto (Sound Effects by)
+Duration: 0:12
+---
+Track: 'SE: Inkjet'
+Contributors:
+- Takahisa Yamamoto (Sound Effects by)
+Duration: 0:13
+---
+Track: 'SE: Splashdown'
+Contributors:
+- Takahisa Yamamoto (Sound Effects by)
+Duration: 0:06
+---
+Track: 'SE: Baller'
+Contributors:
+- Takahisa Yamamoto (Sound Effects by)
+Duration: 0:12
+---
+Track: 'SE: Inkling Boy - This Way!'
+Contributors:
+- Yuki Tsuji (Sound Effects by)
+Duration: 0:04
+---
+Track: 'SE: Inkling Boy - Booyah!'
+Contributors:
+- Yuki Tsuji (Sound Effects by)
+Duration: 0:04
+---
+Track: 'SE: Inkling Girl - This Way!'
+Contributors:
+- Yuki Tsuji (Sound Effects by)
+Duration: 0:04
+---
+Track: 'SE: Inkling Girl - Booyah!'
+Contributors:
+- Yuki Tsuji (Sound Effects by)
+Duration: 0:04
+---
+Track: "SE: Off the Hook's Motto"
+Contributors:
+- Takahisa Yamamoto (Sound Effects by)
+Duration: 0:05
+---
+Track: 'SE: Moving Tower'
+Contributors:
+- Shigetoshi Gohara (Sound Effects by)
+Duration: 0:49
+---
+Track: 'SE: Collecting Golden Eggs'
+Contributors:
+- Takahisa Yamamoto (Sound Effects by)
+Duration: 0:25
+---
+Track: A Brighter Future Awaits! (Grizzco Industries Recruitment Video)
+Contributors:
+- Grizzco (Performed by)
+- Ryo Nagamatsu (Music by)
+Duration: 0:54
+Referenced Tracks:
+- track:splattack-splatoon
+---
+Track: January 2017 Trailer
+Contributors:
+- Toru Minegishi (Music by)
+Duration: 1:37
+Referenced Tracks:
+- Inkoming!
+- track:splattack-splatoon
