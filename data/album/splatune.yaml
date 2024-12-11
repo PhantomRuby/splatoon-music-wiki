@@ -17,6 +17,8 @@ Track: Opening
 Directory: opening-splatoon
 Artists:
 - Squid Squad
+Contributors:
+- Toru Minegishi (Composed by)
 Duration: 0:13
 #URLs:
 #- https://en.wikipedia.org/wiki/Abracadabra
@@ -24,6 +26,8 @@ Duration: 0:13
 Track: Splattack! (Jam Session)
 Artists:
 - Squid Squad
+Contributors:
+- Toru Minegishi (Composed by)
 Duration: 2:33
 Referenced Tracks:
 - Splattack!
@@ -32,54 +36,66 @@ Track: Splattack!
 Directory: splattack-splatoon
 Artists:
 - Squid Squad
+Contributors:
+- Toru Minegishi (Composed by)
 Duration: 2:53
 ---
 Track: Ink or Sink
 Artists:
 - Squid Squad
+Contributors:
+- Toru Minegishi (Composed by)
 Duration: 2:36
 ---
 Track: Seaskape
 Artists:
 - Squid Squad
+Contributors:
+- Toru Minegishi (Composed by)
 Duration: 2:57
 ---
 Track: Kraken Up
 Artists:
 - Squid Squad
+Contributors:
+- Toru Minegishi (Composed by)
 Duration: 2:22
 ---
 Track: Metalopod
 Artists:
 - Squid Squad
+Contributors:
+- Toru Minegishi (Composed by)
 Duration: 2:22
 ---
 Track: Now or Never!
 Directory: now-or-never-splatoon
 Artists:
 - Squid Squad
+Contributors:
+- Toru Minegishi (Composed by)
 Duration: 1:04
 ---
 Track: You Got Them!
 Directory: you-got-them-splatoon
-#Contributors:
-#- 
+Contributors:
+- Toru Minegishi (Composed by)
 Duration: 0:04
 ---
 Track: Battle Win Result
-#Contributors:
-#- 
+Contributors:
+- Toru Minegishi (Composed by)
 Duration: 1:08
 ---
 Track: They Got You!
 Directory: they-got-you-splatoon
-#Contributors:
-#- 
+Contributors:
+- Toru Minegishi (Composed by)
 Duration: 0:06
 ---
 Track: Battle Lose Result
-#Contributors:
-#- 
+Contributors:
+- Toru Minegishi (Composed by)
 Duration: 1:11
 ---
 Track: Shellfie
@@ -95,17 +111,20 @@ Duration: 2:32
 Track: Hooked
 Artists:
 - Hightide Era
+Contributors:
+- Toru Minegishi (Composed by)
 Duration: 2:27
 ---
 Track: Sucker Punch
 Artists:
 - Hightide Era
+Contributors:
+- Toru Minegishi (Composed by)
 Duration: 2:39
 ---
 Track: Player Make
 Contributors:
-- Toru Minegishi (Music by)
-- Toru Minegishi (Drums:)
+- Toru Minegishi (Composed by)
 Duration: 1:08
 Referenced Tracks:
 - Inkopolis Tutorial
@@ -116,8 +135,8 @@ Track: Visiting Inkopolis
 Duration: 1:03
 ---
 Track: Inkopolis Tutorial
-#Contributors:
-#- 
+Contributors:
+- Toru Minegishi (Composed by)
 Duration: 1:07
 Referenced Tracks:
 - Splattack! (Jam Session)
@@ -128,13 +147,15 @@ Track: Plaza
 Duration: 4:56
 ---
 Track: Lobby
-#Contributors:
-#- 
+Contributors:
+- Toru Minegishi (Composed by)
 Duration: 1:35
 ---
 Track: Dubble Bath
 Artists:
 - Bob Dub
+Contributors:
+- Toru Minegishi (Composed by)
 Duration: 2:09
 ---
 Track: Lookin' Fresh
@@ -152,8 +173,8 @@ Duration: 0:55
 Track: Splatfest Theme Drop
 #Artists:
 #- Squid Sisters ##would probably have been retconned in Splatoon 3 jukebox
-#Contributors:
-#- 
+Contributors:
+- Toru Minegishi (Composed by)
 Duration: 0:08
 ---
 Section: Disc 2
@@ -178,47 +199,57 @@ Directory: now-or-never-splatfest-splatoon
 Artists:
 - Squid Sisters
 Duration: 1:04
+Referenced Tracks:
+- track:now-or-never-splatoon
 ---
 Track: Splatfest Results Drop
 #Artists:
 #- Squid Sisters ##would probably have been retconned in Splatoon 3 jukebox
-#Contributors:
-#- 
+Contributors:
+- Toru Minegishi (Composed by)
 Duration: 0:08
 ---
 Track: Got It!
-#Contributors:
-#- 
+Contributors:
+- Toru Minegishi (Composed by)
 Duration: 0:05
 ---
 Track: Cap'n Cuttleflish's Theme
-#Contributors:
-#- 
+Contributors:
+- Toru Minegishi (Composed by)
 Duration: 2:05
 ---
 Track: Octo Valley
-#Contributors:
-#- 
+Contributors:
+- Toru Minegishi (Composed by)
 Duration: 4:07
 ---
 Track: Eight-Legged Advance
 Artists:
 - Turquoise October
+Contributors:
+- Toru Minegishi (Composed by)
 Duration: 3:05
 ---
 Track: Tentacular Circus
 Artists:
 - Turquoise October
+Contributors:
+- Toru Minegishi (Composed by)
 Duration: 2:03
 ---
 Track: Cephaloparade
 Artists:
 - Turquoise October
+Contributors:
+- Toru Minegishi (Composed by)
 Duration: 3:06
 ---
 Track: Inkstrike Shuffle
 Artists:
 - Turquoise October
+Contributors:
+- Toru Minegishi (Composed by)
 Duration: 2:02
 ---
 Track: Octoling Rendezvous
@@ -229,30 +260,34 @@ Duration: 1:57
 Track: Octoweaponry
 Artists:
 - Turquoise October
+Contributors:
+- Toru Minegishi (Composed by)
 Duration: 3:55
 ---
 Track: To Be Continued!
 #Artists:
 #- Turquoise October
-#Contributors:
-#-
+Contributors:
+- Toru Minegishi (Composed by)
 Duration: 0:08
 ---
 Track: Miss!!
 #Artists:
 #- Turquoise October
-#Contributors:
-#-
+Contributors:
+- Toru Minegishi (Composed by)
 Duration: 0:09
 ---
 Track: Sunken Scroll
-#Contributors:
-#-
+Contributors:
+- Toru Minegishi (Composed by)
 Duration: 1:26
 ---
 Track: I am Octavio
 Artists:
 - DJ Octavio
+Contributors:
+- Toru Minegishi (Composed by)
 Duration: 3:54
 ---
 Track: Calamari Inkantation
@@ -343,8 +378,8 @@ Referenced Tracks:
 - Calamari Inkantation
 ---
 Track: Splattack! (2014 E3PV)
-#Contributors:
-#-
+Contributors:
+- Toru Minegishi (Composed by)
 Duration: 2:32
 Referenced Tracks:
 - track:splattack-splatoon
