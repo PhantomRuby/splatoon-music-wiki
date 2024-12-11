@@ -11,6 +11,8 @@ Groups:
 URLs:
 - https://hsmusic.wiki/
 ---
+Section: Disc 1
+---
 Track: Opening
 Directory: opening-splatoon
 Artists:
@@ -77,3 +79,72 @@ Track: Battle Lose Result
 #Contributors:
 #- 
 Duration: 1:11
+---
+Track: Shellfie
+Artists:
+- Chirpy Chips
+Duration: 2:06
+---
+Track: Split & Splat
+Artists:
+- Chirpy Chips
+Duration: 2:32
+---
+Track: Hooked
+Artists:
+- Hightide Era
+Duration: 2:27
+---
+Track: Sucker Punch
+Artists:
+- Hightide Era
+Duration: 2:39
+---
+Track: Player Make
+#Contributors:
+#- 
+Duration: 1:08
+---
+Track: Visiting Inkopolis
+#Contributors:
+#- 
+Duration: 1:03
+---
+Track: Inkopolis Tutorial
+#Contributors:
+#- 
+Duration: 1:07
+---
+Track: Plaza
+#Contributors:
+#- 
+Duration: 4:56
+---
+Track: Lobby
+#Contributors:
+#- 
+Duration: 1:35
+---
+Track: Dubble Bath
+Artists:
+- Bob Dub
+Duration: 2:09
+---
+Track: Lookin' Fresh
+Artists:
+- Bob Dub
+Duration: 2:15
+---
+Track: Inkopolis News
+#Artists:
+#- Squid Sisters ##retconned in Splatoon 3 jukebox
+#Contributors:
+#- 
+Duration: 0:55
+---
+Track: Splatfest Theme Drop
+#Artists:
+#- Squid Sisters ##would probably have been retconned in Splatoon 3 jukebox
+#Contributors:
+#- 
+Duration: 0:08
