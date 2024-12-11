@@ -1,10 +1,12 @@
 Homepage: Homepage
 ---
-Row: Official Discography
+Row: Original Soundtracks
 Type: albums
 Display Style: grid
-#Actions:
-#- '[[group-gallery:official|Explore Official!]]'
+Actions:
+- '[[group-gallery:splatoon|Explore Splatoon!]]'
+- '[[group-gallery:splatoon-2|Explore Splatoon 2!]]'
+- '[[group-gallery:splatoon-3|Explore Splatoon 3!]]'
 #- '[[group-gallery:fandom|Explore Fandom!]]'
 #- '[[group-gallery:beyond|Explore Beyond!]]'
 Albums:
