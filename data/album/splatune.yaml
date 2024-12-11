@@ -191,6 +191,8 @@ Directory: splatfest-theme-drop-splatoon
 Contributors:
 - Toru Minegishi (Composed by)
 Duration: 0:08
+Referenced Tracks:
+- City of Color
 ---
 Section: Disc 2
 ---
@@ -202,6 +204,7 @@ Contributors:
 Duration: 2:07
 ---
 Track: Commence the Fest
+Directory: commence-the-fest-splatoon
 Artists:
 - Squid Sisters
 Contributors:
@@ -226,6 +229,7 @@ Referenced Tracks:
 - track:now-or-never-splatoon
 ---
 Track: Splatfest Results Drop
+Directory: splatfest-results-drop-splatoon
 #Artists:
 #- Squid Sisters ##would probably have been retconned in Splatoon 3 jukebox
 Contributors:
@@ -233,11 +237,12 @@ Contributors:
 Duration: 0:08
 ---
 Track: Got It!
+Directory: got-it-splatoon
 Contributors:
 - Toru Minegishi (Composed by)
 Duration: 0:05
 ---
-Track: Cap'n Cuttleflish's Theme
+Track: Cap'n Cuttlefish's Theme
 Contributors:
 - Toru Minegishi (Composed by)
 Duration: 2:05
@@ -255,6 +260,7 @@ Contributors:
 Duration: 3:05
 ---
 Track: Tentacular Circus
+Directory: tentacular-circus-splatoon
 Artists:
 - Turquoise October
 Contributors:
@@ -262,6 +268,7 @@ Contributors:
 Duration: 2:03
 ---
 Track: Cephaloparade
+Directory: cephaloparade-splatoon
 Artists:
 - Turquoise October
 Contributors:
@@ -276,6 +283,7 @@ Contributors:
 Duration: 2:02
 ---
 Track: Octoling Rendezvous
+Directory: octoling-rendezvous-splatoon
 Artists:
 - Turquoise October
 Contributors:
@@ -328,6 +336,10 @@ Artists:
 Contributors:
 - Shiho Fujii (Composed by)
 Duration: 2:46
+Referenced Tracks:
+- City of Color
+- Calamari Inkantation
+- track:splattack-splatoon
 ---
 Track: 'SE: Ink Coronet'
 Contributors:
