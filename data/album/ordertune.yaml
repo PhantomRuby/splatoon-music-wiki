@@ -13,6 +13,15 @@ URLs:
 ---
 Track: まどろみ
 Directory: madoromi
-Duration: 0:13
+#Duration: 
 URLs:
 - https://en.wikipedia.org/wiki/Abracadabra
+---
+Track: '#0.1 style'
+Artists:
+- Dedf1sh
+#Duration: 
+URLs:
+- https://en.wikipedia.org/wiki/Abracadabra
+#Referenced Tracks:
+#- '#0 shell'
