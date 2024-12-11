@@ -1,2 +1,13 @@
-meta.langiageCode: en
+meta.languageCode: en
 meta.languageName: English
+
+releaseInfo:
+    by:
+        _: "Performed by {ARTISTS}"
+        featuring: "Performed by {ARTISTS} feat. {FEATURING}"
+trackList:
+    item:
+        withArtists:
+            by: "/ {ARTISTS}"
+            featuring: "feat. {ARTISTS}"
+            by.featuring: "/ {ARTISTS} feat. {FEATURING}"
