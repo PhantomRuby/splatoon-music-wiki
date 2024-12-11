@@ -1,6 +1,16 @@
 Homepage: Homepage
 ---
-Row: New Releases
+Row: Official Discography
 Type: albums
-Group: new-releases
-Count: 4
+Display Style: grid
+#Actions:
+#- '[[group-gallery:official|Explore Official!]]'
+#- '[[group-gallery:fandom|Explore Fandom!]]'
+#- '[[group-gallery:beyond|Explore Beyond!]]'
+Albums:
+- Splatoon ORIGINAL SOUNDTRACK -Splatune-
+- Splatoon2 ORIGINAL SOUNDTRACK -Splatune2-
+- Splatoon3 ORIGINAL SOUNDTRACK -Splatune3-
+
+- Splatoon2 ORIGINAL SOUNDTRACK -Octotune-
+- Splatoon3 ORIGINAL SOUNDTRACK -Ordertune-
