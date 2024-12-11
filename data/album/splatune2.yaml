@@ -11,17 +11,116 @@ Groups:
 URLs:
 - https://hsmusic.wiki/
 ---
+Section: Disc 1
+---
 Track: Opening
 Directory: opening-splatoon2
 Artists:
 - Wet Floor
 Duration: 0:21
-URLs:
-- https://en.wikipedia.org/wiki/Abracadabra
 ---
 Track: Inkoming!
 Artists:
 - Wet Floor
 Duration: 2:48
-URLs:
-- https://en.wikipedia.org/wiki/Abracadabra
+---
+Track: Rip Entry
+Artists:
+- Wet Floor
+Duration: 2:25
+---
+Track: Undertow
+Artists:
+- Wet Floor
+Duration: 2:56
+---
+Track: Don't Slip
+Artists:
+- Wet Floor
+Duration: 3:06
+---
+Track: Endolphin Surge
+Artists:
+- Wet Floor
+Duration: 4:27
+---
+Track: Now or Never!
+Directory: now-or-never-splatoon2
+Artists:
+- Wet Floor
+Duration: 1:05
+---
+Track: You Got Them!
+Directory: you-got-them-splatoon2
+Artists:
+- Wet Floor
+Duration: 0:05
+Referenced Tracks:
+- track:you-got-them-splatoon
+---
+Track: Turf Master
+Artists:
+- Wet Floor
+Duration: 1:13
+Referenced Tracks:
+- Battle Win Result
+---
+Track: They Got You!
+Directory: they-got-you-splatoon2
+Artists:
+- Wet Floor
+Duration: 0:06
+Referenced Tracks:
+- track:they-got-you-splatoon
+---
+Track: Ink Another Day
+Artists:
+- Wet Floor
+Duration: 1:34
+---
+Track: Shipwreckin'
+Artists:
+- Bottom Feeders
+Duration: 2:44
+---
+Track: Fins & Fiddles
+Artists:
+- Bottom Feeders
+Duration: 2:07
+---
+Track: Seafoam Shanty
+Artists:
+- Bottom Feeders
+Duration: 3:23
+---
+Track: Broken Coral
+Artists:
+- Ink Theory
+Duration: 2:44
+---
+Track: Riptide Rupture
+Artists:
+- Ink Theory
+Duration: 2:31
+---
+Track: Inkoming! (Cloud Edit)
+Artists:
+- Wet Floor
+Duration: 2:16
+Referenced Tracks:
+- Inkoming!
+---
+Track: Slip into Inkopolis Square
+#Contributors:
+#- 
+Duration: 0:44
+---
+Track: Getting Squared Away
+#Contributors:
+#- 
+Duration: 1:53
+---
+Track: Inkopolis Square
+#Contributors:
+#- 
+Duration: 5:04
