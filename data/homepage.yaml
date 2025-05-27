@@ -2,15 +2,9 @@ Homepage: Homepage
 Navbar Links:
 - '[[listing-index:-|Listings]]'
 ---
-Row: Original Soundtracks
-Type: albums
-Display Style: grid
-Actions:
-- '[[group-gallery:splatoon|Explore Splatoon!]]'
-- '[[group-gallery:splatoon-2|Explore Splatoon 2!]]'
-- '[[group-gallery:splatoon-3|Explore Splatoon 3!]]'
-#- '[[group-gallery:fandom|Explore Fandom!]]'
-#- '[[group-gallery:beyond|Explore Beyond!]]'
+Section: Original Soundtracks
+---
+Row: album grid
 Albums:
 - Splatoon ORIGINAL SOUNDTRACK -Splatune-
 - Splatoon2 ORIGINAL SOUNDTRACK -Splatune2-
@@ -18,3 +12,11 @@ Albums:
 
 - Splatoon2 ORIGINAL SOUNDTRACK -Octotune-
 - Splatoon3 ORIGINAL SOUNDTRACK -Ordertune-
+---
+Row: actions
+Actions:
+- '[[group-gallery:splatoon|Explore Splatoon!]]'
+- '[[group-gallery:splatoon-2|Explore Splatoon 2!]]'
+- '[[group-gallery:splatoon-3|Explore Splatoon 3!]]'
+#- '[[group-gallery:fandom|Explore Fandom!]]'
+#- '[[group-gallery:beyond|Explore Beyond!]]'
