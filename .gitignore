@@ -13,3 +13,5 @@
 /cache
 
 run local server.bat
+
+/media/file-size-cache.json
