@@ -12,6 +12,7 @@ URLs:
 - https://hsmusic.wiki/
 ---
 Section: Disc 1
+Start Counting From: 1
 ---
 Track: Opening
 Directory: opening-splatoon
@@ -195,6 +196,7 @@ Referenced Tracks:
 - City of Color
 ---
 Section: Disc 2
+Start Counting From: 1
 ---
 Track: City of Color
 Artists:

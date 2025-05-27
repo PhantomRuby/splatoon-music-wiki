@@ -12,6 +12,7 @@ URLs:
 - https://hsmusic.wiki/
 ---
 Section: Disc 1
+Start Counting From: 1
 ---
 Track: Opening
 Directory: opening-splatoon3
@@ -273,6 +274,7 @@ Referenced Tracks:
 - Ever Further
 ---
 Section: Disc 2
+Start Counting From: 1
 ---
 Track: Cap'n Cuttlefish's Theme
 Directory: capn-cuttlefishs-theme-splatoon3
@@ -327,3 +329,138 @@ Artists:
 Contributors:
 - Sayako Doi (Music by)
 Duration: 3:56
+---
+Track: Sudden Depth
+Artists:
+- Mimicry
+Contributors:
+- Sayako Doi (Music by)
+Duration: 3:55
+---
+Track: Two Shadows in the Sun
+Artists:
+- Wash Out
+Contributors:
+- Sayako Doi (Music by)
+Duration: 4:34
+---
+Track: Dead Sea
+Artists:
+- Firefly
+Contributors:
+- Sayako Doi (Music by)
+Duration: 4:07
+---
+Track: Whirlpool Tune
+Artists:
+- On the Clock
+Contributors:
+- Sayako Doi (Music by)
+Duration: 3:29
+---
+Track: Hyper Diver
+Artists:
+- Anxiety Society
+Contributors:
+- Sayako Doi (Music by)
+Duration: 4:07
+---
+Track: 'Alterna Citizen Program M-01: Basic Course (Morning Fog)'
+Contributors:
+- Toshiyuki Sudo (Music by)
+Duration: 2:31
+---
+Track: Nine Out of Tension
+Artists:
+- Octoplush
+Contributors:
+- Toshiyuki Sudo (Music by)
+Duration: 2:38
+---
+Track: Underwater Neon
+Artists:
+- Octoplush
+Contributors:
+- Toru Minegishi (Music by)
+Duration: 3:22
+---
+Track: Flop to It
+Artists:
+- Octoplush
+Contributors:
+- Toru Minegishi (Music by)
+Duration: 4:11
+---
+Track: Octoling Rendezvous
+Directory: octoling-rendezvous-splatoon3
+Main Release: track:octoling-rendezvous-splatoon
+Duration: 1:58
+---
+Track: 'Alterna Citizen Program M-02: Advanced Course (Twilight Waves)'
+Contributors:
+- Toshiyuki Sudo (Music by)
+Duration: 1:22
+---
+Track: Smoke and Mirrors
+Artists:
+- Octoplush
+Contributors:
+- Toru Minegishi (Music by)
+Duration: 2:28
+---
+Track: Ride or Fry
+Artists:
+- Octoplush
+Contributors:
+- Toru Minegishi (Music by)
+Duration: 2:22
+---
+Track: With Flying Colors
+Artists:
+- Octoplush
+Contributors:
+- Toru Minegishi (Music by)
+Duration: 3:23
+---
+Track: Seep & Destroy
+Artists:
+- Octoplush
+Contributors:
+- Toru Minegishi (Music by)
+Duration: 3:19
+---
+Track: Marine Machines
+Artists:
+- Octoplush
+Contributors:
+- Toru Minegishi (Music by)
+Duration: 2:19
+---
+Track: '#35 Caught'
+Artists:
+- Octoplush
+Contributors:
+- Ryo Nagamatsu (Music by)
+Duration: 3:59
+---
+Track: Don't Flinch
+Artists:
+- Octoplush
+Contributors:
+- Ryo Nagamatsu (Music by)
+Duration: 3:29
+---
+Track: Mission Complete! (Alterna)
+Contributors:
+- Toshiyuki Sudo (Music by)
+Duration: 0:13
+---
+Track: Got It! (Alterna Swag)
+Contributors:
+- Sayako Doi (Music by)
+Duration: 0:06
+---
+Track: Got It! (Gold Record)
+Contributors:
+- Sayako Doi (Music by)
+Duration: 0:06

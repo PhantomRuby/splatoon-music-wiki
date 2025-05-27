@@ -12,6 +12,7 @@ URLs:
 - https://hsmusic.wiki/
 ---
 Section: Disc 1
+Start Counting From: 1
 Color: '#fe2375'
 ---
 Track: Opening
@@ -272,6 +273,7 @@ Referenced Tracks:
 - Color Pulse
 ---
 Section: Disc 2
+Start Counting From: 1
 Color: '#56f840'
 ---
 Track: Color Pulse
