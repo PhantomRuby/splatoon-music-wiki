@@ -24,7 +24,7 @@ Duration: 0:13
 #URLs:
 #- https://en.wikipedia.org/wiki/Abracadabra
 ---
-Track: Splattack! (Jam Session)
+Track: Splattack! (Jam Sesh)
 Artists:
 - Squid Squad
 Contributors:
@@ -83,7 +83,7 @@ Contributors:
 - Toru Minegishi (Composed by)
 Duration: 0:04
 ---
-Track: Battle Win Result
+Track: Battle Victory
 Contributors:
 - Toru Minegishi (Composed by)
 Duration: 1:08
@@ -94,7 +94,7 @@ Contributors:
 - Toru Minegishi (Composed by)
 Duration: 0:06
 ---
-Track: Battle Lose Result
+Track: Battle Defeat
 Contributors:
 - Toru Minegishi (Composed by)
 Duration: 1:11
@@ -127,37 +127,37 @@ Contributors:
 - Toru Minegishi (Composed by)
 Duration: 2:39
 ---
-Track: Player Make
+Track: Show Yourself
 Contributors:
 - Toru Minegishi (Composed by)
 Duration: 1:08
 Referenced Tracks:
-- Inkopolis Tutorial
+- Start Fresh
 ---
-Track: Visiting Inkopolis
+Track: Slip into Inkopolis
 Contributors:
 - Takuro Yasuda (Sound Effects by)
 Duration: 1:03
 Referenced Tracks:
-- Plaza
+- The Plaza
 - Calamari Inkantation
 Sampled Tracks:
-- Plaza
+- The Plaza
 ---
-Track: Inkopolis Tutorial
+Track: Start Fresh
 Contributors:
 - Toru Minegishi (Composed by)
 Duration: 1:07
 Referenced Tracks:
-- Splattack! (Jam Session)
+- Splattack! (Jam Sesh)
 ---
-Track: Plaza
+Track: The Plaza
 Contributors:
 - Toru Minegishi (Composed by)
 - Yuki Tsuji (Sound Effects by)
 Duration: 4:56
 ---
-Track: Lobby
+Track: Inkopolis Lobby
 Contributors:
 - Toru Minegishi (Composed by)
 Duration: 1:35
@@ -298,26 +298,27 @@ Contributors:
 - Toru Minegishi (Composed by)
 Duration: 3:55
 ---
-Track: To Be Continued!
+Track: 'Story Mode: Onward!'
+Directory: story-mode-onward-splatoon
 #Artists:
 #- Turquoise October
 Contributors:
 - Toru Minegishi (Composed by)
 Duration: 0:08
 ---
-Track: Miss!!
+Track: 'Story Mode: SPLAT!'
 #Artists:
 #- Turquoise October
 Contributors:
 - Toru Minegishi (Composed by)
 Duration: 0:09
 ---
-Track: Sunken Scroll
+Track: The Sunken Scrolls
 Contributors:
 - Toru Minegishi (Composed by)
 Duration: 1:26
 ---
-Track: I am Octavio
+Track: I Am Octavio
 Artists:
 - DJ Octavio
 Contributors:

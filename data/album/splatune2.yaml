@@ -85,7 +85,7 @@ Contributors:
 - Toru Minegishi (Music by)
 Duration: 1:13
 Referenced Tracks:
-- Battle Win Result
+- Battle Victory
 ---
 Track: They Got You!
 Directory: they-got-you-splatoon2
@@ -339,7 +339,7 @@ Contributors:
 - Toru Minegishi (Music by)
 Duration: 2:04
 Referenced Tracks:
-- Battle Win Result
+- Battle Victory
 ---
 Track: They Got You! (Splatfest)
 Directory: they-got-you-splatfest-splatoon2
@@ -458,13 +458,14 @@ Contributors:
 Duration: 4:04
 ---
 Track: 'Story Mode: Onward!'
+Directory: story-mode-onward-splatoon2
 Artists:
 - Turquoise October
 Contributors:
 - Toru Minegishi (Music by)
 Duration: 0:07
 Referenced Tracks:
-- To Be Continued!
+- track:story-mode-onward-splatoon
 ---
 Track: R.I.P. (Story Mode)
 Artists:
@@ -473,7 +474,7 @@ Contributors:
 - Toru Minegishi (Music by)
 Duration: 0:09
 Referenced Tracks:
-- Miss!!
+- 'Story Mode: SPLAT!'
 ---
 Track: Bomb Rush Blush
 Directory: bomb-rush-blush-splatoon2
